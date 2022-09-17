@@ -7,7 +7,7 @@ import React from "react";
 
 class App extends React.Component {
   state = {
-    name: 'Paul Nguyen',
+    name: 'Paul Nguyen 123',
     age: '25'
   }
   render() {
